@@ -2,4 +2,4 @@
 Repository || Object Oriented Programming
 
 Image of the php page
-![alt text]([https://i.imgur.com/Yfb9ELm.png])
+([https://i.imgur.com/Yfb9ELm.png])
