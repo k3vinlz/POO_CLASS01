@@ -3,14 +3,8 @@ This is a repository of a project that i made in the university class called `Ob
 
 # Images of the Project
 ![Main Page](img/main.png)
-
-View of the page 01 / Class
 ![Class Page](img/01class.png)
-
-View of the page 02 / Construct
 ![Construct Page](img/02construct.png)
-
-View of the page 03 / Private
 ![Private Page](img/03private.png)
 
 # Console Commands
