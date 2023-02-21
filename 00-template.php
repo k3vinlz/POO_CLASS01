@@ -17,7 +17,7 @@
 
 <body class="min-h-[100vh] flex justify-center items-center">
     <main class="w-[380px] h-[560px] bg-orange-200/10 p-5 rounded-[20px]">
-        <header class="flex gap-4 justify-center items-center border-b-4 border-orange-200 pb-5">
+        <header class="flex gap-4 justify-center items-center border-b-4 text-orange-100 border-orange-200 pb-5">
             <a href="index.php">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
                     stroke="currentColor" class="w-10 h-10 hover:-translate-x-1 transition-all">
@@ -27,7 +27,7 @@
             </a>
             <h1 class="text-2xl">Template</h1>
         </header>
-        <section class="max-h-[460px] overflow-y-auto my-4">
+        <section class="max-h-[460px] text-orange-100 overflow-y-auto my-4">
 
         </section>
     </main>
